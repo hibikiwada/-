@@ -1,0 +1,11 @@
+/**
+* base.css
+*/
+@charset "UTF-8";
+@import 'base/_common';
+
+main {
+  @include breakpoint-min(sm) {
+    background: red;
+  }
+}
