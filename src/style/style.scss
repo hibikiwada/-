@@ -66,10 +66,11 @@ main {
       display: flex;
       justify-content: space-around;
       margin: 0 0 50px 0;
+      align-items: center;
       .profile-l {
         width: 550px;
         letter-spacing: 0.02em;
-        line-height: 2;
+        line-height: 1.5;
         h3 {
           width: 500px;
           text-align: center;
@@ -80,12 +81,12 @@ main {
         }
         &-txt {
           span {
-            font-size: 26px;
+            font-size: 20px;
             font-weight: bold;
           }
-          font-size: 26px;
+          font-size: 20px;
           margin-bottom: 10px;
-          line-height: 2em;
+          line-height: 1.8;
           color: #7c7c7c;
         }
         &-txt2 {
@@ -100,6 +101,7 @@ main {
         }
       }
       .profile-r {
+
         img {
           border-radius: 40px;
         }
