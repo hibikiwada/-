@@ -353,7 +353,7 @@ main {
         @include breakpoint-min(sm) {
           display: block;
           width: 100%;
-          margin: 0 0 0 10px;
+          margin: 0 0 0 20px;
         }
         th {
           text-align: right;
@@ -414,10 +414,16 @@ main {
     font-size: 20px;
     color: #fff;
     line-height: 1.6;
+    @include breakpoint-min(sm) {
+      font-size: 15px;
+    }
   }
   .footer-sub-text {
     text-align: center;
     font-size: 25px;
     color: #fff;
+    @include breakpoint-min(sm) {
+      font-size: 20px;
+    }
   }
 }
