@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/logo.js": "components/logo.js",
+    "pages/artwork/index.js": "pages/artwork/index.js",
+    "pages/calendar/index.js": "pages/calendar/index.js",
+    "pages/child/index.js": "pages/child/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/oder/index.js": "pages/oder/index.js",
+    "pages/portrait/index.js": "pages/portrait/index.js",
+    "pages/votive/index.js": "pages/votive/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/logo.js": "components/logo.js.map",
+    "pages/artwork/index.js": "pages/artwork/index.js.map",
+    "pages/calendar/index.js": "pages/calendar/index.js.map",
+    "pages/child/index.js": "pages/child/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/oder/index.js": "pages/oder/index.js.map",
+    "pages/portrait/index.js": "pages/portrait/index.js.map",
+    "pages/votive/index.js": "pages/votive/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
