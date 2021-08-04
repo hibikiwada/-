@@ -1,42 +1,9 @@
-<!DOCTYPE html>
-<html lang="ja">
-
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ささら優のポートフォリオサイト</title>
-  <meta name="Description" content="" />
-  <meta name="Keywords" content="" />
-  <meta name="copyright" content="" />
-  <meta name="robots" content="noindex, nofollow, noarchive" />
-  <meta property="og:title" content="" />
-  <meta property="og:type" content="website" />
-  <meta property="og:description" content="" />
-  <meta property="og:url" content="" />
-  <meta property="og:image" content="" />
-  <meta property="og:site_name" content="" />
-  <meta property="og:locale" content="ja_JP" />
-  <!-- Facebook -->
-  <meta property="fb:app_id" content="" />
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="" />
-  <meta name="twitter:description" content="" />
-  <meta name="twitter:image:src" content="" />
-  <!-- Favicon/Apple Touch Icon -->
-  <link rel="icon" href="" />
-  <link rel="apple-touch-icon" sizes="180x180" href="" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
-    integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
-</head>
-
-<body id="body">
+<template>
   <div class="body-wrapper">
     <main>
       <section class="fv">
-        <img src="../src/images/fv.jpg" alt="" class="fv-pc">
-        <img src="../src/images/sp-fv.png" alt="" class="fv-sp">
+        <img src="/images/fv.jpg" alt="" class="fv-pc">
+        <img src="/images/sp-fv.png" alt="" class="fv-sp">
         <p>ささら 優<span>(ゆう)</span><br>
           <span class="sp2">〜 Woman creators Bank 所属イラストレーター 〜</span>
         </p>
@@ -62,6 +29,7 @@
               CLIP STUDIO RAINT,
               Adobe Illustrator 2020, <br>
               Photoshop 2020
+
             </p>
             <p class="profile-l-txt2">
               <span>経歴:</span> <br>
@@ -73,7 +41,7 @@
             </p>
           </div>
           <div class="profile-r">
-            <img src="../src/images/img1.jpg" width="500" height="650" alt="" loading="lazy">
+            <img src="/images/img1.jpg" width="500" height="650" alt="" loading="lazy">
           </div>
         </div>
       </section>
@@ -83,30 +51,33 @@
         <div class="flex">
           <div class="box">
             <div class="works-img">
-              <img src="../src/images/img2.jpg" width="300" height="210" alt="" loading="lazy">
+              <img src="/images/img2.jpg" width="300" height="210" alt="" loading="lazy">
             </div>
             <h3 class="works-text">オーダーメイド</h3>
             <p class="works-text2">まるで絵本の 1 ページのようなストーリー性のあるイラストが得意です 楽しく遊ぶ子供達や夢のある雰囲気満載のイラストをお描きします。</p>
+            <a href="/oder/" class="art-btn">作品一覧はこちら</a>
           </div>
           <div class="box">
             <div class="works-img">
-              <img src="../src/images/img3.jpg" width="300" height="210" alt="" loading="lazy">
+              <img src="/images/img3.jpg" width="300" height="210" alt="" loading="lazy">
             </div>
             <h3 class="works-text">挿し絵製作</h3>
             <p class="works-text2">赤ちゃんから子供のイラストの挿絵等、なんでも書き上げます。 年齢別に可愛らしくかき分けます。タッチや顔のご希望があれば納得いくまで描きます。</p>
+            <a href="/artwork/" class="art-btn">作品一覧はこちら</a>
           </div>
           <div class="box">
             <div class="works-img">
-              <img src="../src/images/img5.png" width="300" height="210" alt="" loading="lazy">
+              <img src="/images/img5.png" width="300" height="210" alt="" loading="lazy">
             </div>
             <h3 class="works-text">子授け祈願</h3>
             <p class="works-text2">
               高齢化や晩婚から妊活がすすむこの時代。子育てが一段落した私にとって子宝を願う人全てを全力で応援したいと強く思っています。現在は子授け祈願のポストカードやイラストの販売に力を注いでおります。神社様の子宝絵馬なども制作致します。
             </p>
+            <a href="/child/" class="art-btn">作品一覧はこちら</a>
           </div>
           <div class="box">
             <div class="works-img">
-              <img src="../src/images/img4.jpg" width="300" height="210" alt="" loading="lazy">
+              <img src="/images/img4.jpg" width="300" height="210" alt="" loading="lazy">
             </div>
             <h3 class="works-text">絵馬イラスト</h3>
             <p class="works-text2">
@@ -114,10 +85,11 @@
               神社様名や言葉に加え個性的で目を引くイラストを提案いたします。 子授けを始め健康祈願・学問、縁結び等どんな絵馬もお描きします。
               絵馬のサイズも多種対応可能です。是非一度ご相談下さい。
             </p>
+            <a href="/votive/" class="art-btn">作品一覧はこちら</a>
           </div>
           <div class="box">
             <div class="works-img">
-              <img src="../src/images/img7.jpg" width="300" height="210" alt="" loading="lazy">
+              <img src="/images/img7.jpg" width="300" height="210" alt="" loading="lazy">
             </div>
             <h3 class="works-text">似顔絵イラスト</h3>
             <p class="works-text2">
@@ -126,10 +98,11 @@
               PDFデータと印刷したものをお渡しします<br>
 
             </p>
+            <a href="/portrait/" class="art-btn">作品一覧はこちら</a>
           </div>
           <div class="box">
             <div class="works-img">
-              <img src="../src/images/img6.jpeg" width="300" height="210" alt="" loading="lazy">
+              <img src="/images/img6.jpeg" width="300" height="210" alt="" loading="lazy">
             </div>
             <h3 class="works-text">カレンダーイラスト</h3>
             <p class="works-text2">
@@ -137,6 +110,7 @@
               カレンダーらしいイラストを作成致します。
               めくるたびにワクワクドキドキするような楽しいカレンダーイラストを提案いたします。
             </p>
+            <a href="/calendar/" class="art-btn">作品一覧はこちら</a>
           </div>
         </div>
       </section>
@@ -222,7 +196,7 @@
             </td>
           </tr>
         </table>
-
+        
       </section>
 
       <section class="contact">
@@ -255,6 +229,70 @@
       <p class="footer-sub-text">©️Yuu Sasara office</p>
     </footer>
   </div>
-</body>
+</template>
 
-</html>
+<script>
+export default {
+  head() {
+    return {
+      title:
+        "ささら優 ポートフォリオサイト",
+      titleTemplate: "",
+      meta: [
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        {
+          hid: "description",
+          name: "description",
+          content:
+            "ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。"
+        },
+        {
+          hid: "keywords",
+          name: "keywords",
+          content:
+            "ささらゆう, ささら優, パステル画, パステル, イラストレーター, イラスト, 絵"
+        },
+        {
+          hid: "og:image",
+          name: "og:image",
+          content: "/images/mv.png"
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: "/images/fv.jpg"
+        },
+        {
+          hid: "og:title",
+          name: "og:title",
+          content:
+            "ささら優 ポートフォリオサイト"
+        },
+        {
+          hid: "twitter:title",
+          name: "twitter:title",
+          content:
+            "ささら優 ポートフォリオサイト"
+        },
+        {
+          hid: "og:description",
+          name: "og:description",
+          content:
+            "ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。"
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content:
+            "ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。"
+        }
+      ]
+    };
+  },
+}
+</script>
+
+<style>
+
+
+</style>

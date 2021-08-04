@@ -2,7 +2,7 @@
 * base.css
 */
 @charset "UTF-8";
-@import 'base/_common';
+@import "base/_common";
 
 main {
   font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +20,6 @@ main {
       display: none;
       @include breakpoint-min(sm) {
         display: block;
-
       }
     }
     @include breakpoint-min(sm) {
@@ -88,7 +87,7 @@ main {
         font-size: 35px;
       }
       &::before {
-        content: 'profile';
+        content: "profile";
         position: absolute;
         top: 30%;
         left: 50%;
@@ -192,7 +191,7 @@ main {
         font-size: 35px;
       }
       &::before {
-        content: 'works';
+        content: "works";
         position: absolute;
         top: 30%;
         left: 50%;
@@ -233,6 +232,61 @@ main {
           color: #7c7c7c;
           font-size: 20px;
           line-height: 1.5;
+          a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 50px;
+            position: relative;
+            background: #1886a9;
+            border: 1px solid #1886a9;
+            border-radius: 30px;
+            box-sizing: border-box;
+            padding: 0 45px 0 25px;
+            color: #fff;
+            font-size: 14px;
+            letter-spacing: 0.1em;
+            line-height: 1.3;
+            text-align: left;
+          }
+        }
+        .art-btn {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin: 20px auto 0;
+          width: 80%;
+          height: 50px;
+          position: relative;
+          background: #ed5fff;
+          border: 1px solid #ed5fff;
+          border-radius: 30px;
+          box-sizing: border-box;
+          padding: 0 45px 0 25px;
+          color: #fff;
+          font-size: 14px;
+          letter-spacing: 0.1em;
+          line-height: 1.3;
+          text-align: left;
+          &::before {
+            content: "";
+            width: 8px;
+            height: 8px;
+            border: 0;
+            border-top: 2px solid #fff;
+            border-right: 2px solid #fff;
+            transform: rotate(45deg);
+            position: absolute;
+            top: 50%;
+            right: 25px;
+            margin-top: -6px;
+            z-index: 1;
+          }
+          &:hover {
+            transition: .3s;
+            opacity: .5;
+          }
         }
       }
     }
@@ -254,7 +308,7 @@ main {
         font-size: 35px;
       }
       &::before {
-        content: 'performance';
+        content: "performance";
         position: absolute;
         top: 30%;
         left: 50%;
@@ -331,7 +385,7 @@ main {
         font-size: 35px;
       }
       &::before {
-        content: 'Contact';
+        content: "Contact";
         position: absolute;
         top: 30%;
         left: 50%;

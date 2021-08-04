@@ -1,0 +1,51 @@
+[
+  {
+    "name": "artwork",
+    "path": "/artwork",
+    "component": "/Users/wadahibiki/works/template-yu/pages/artwork/index.vue",
+    "chunkName": "pages/artwork/index",
+    "_name": "_19ff0795"
+  },
+  {
+    "name": "calendar",
+    "path": "/calendar",
+    "component": "/Users/wadahibiki/works/template-yu/pages/calendar/index.vue",
+    "chunkName": "pages/calendar/index",
+    "_name": "_33157413"
+  },
+  {
+    "name": "child",
+    "path": "/child",
+    "component": "/Users/wadahibiki/works/template-yu/pages/child/index.vue",
+    "chunkName": "pages/child/index",
+    "_name": "_d4700786"
+  },
+  {
+    "name": "oder",
+    "path": "/oder",
+    "component": "/Users/wadahibiki/works/template-yu/pages/oder/index.vue",
+    "chunkName": "pages/oder/index",
+    "_name": "_5e206a17"
+  },
+  {
+    "name": "portrait",
+    "path": "/portrait",
+    "component": "/Users/wadahibiki/works/template-yu/pages/portrait/index.vue",
+    "chunkName": "pages/portrait/index",
+    "_name": "_48532430"
+  },
+  {
+    "name": "votive",
+    "path": "/votive",
+    "component": "/Users/wadahibiki/works/template-yu/pages/votive/index.vue",
+    "chunkName": "pages/votive/index",
+    "_name": "_9d92da9c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/wadahibiki/works/template-yu/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7fd731f0"
+  }
+]
