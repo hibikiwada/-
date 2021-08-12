@@ -9,41 +9,15 @@
       <h2>作品一覧</h2>
       <div class="oder__content-box">
         <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
+          <img src="/oder/img1.jpeg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
+          <img src="/oder/img2.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
+          <img src="/oder/img3.jpg" alt="" width="300" height="200" />
         </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/oder/test.png" alt="" width="300" height="200" />
-        </p>
+
       </div>
     </section>
     <footer class="footer">

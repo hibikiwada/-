@@ -9,41 +9,28 @@
       <h2>作品一覧</h2>
       <div class="child__content-box">
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img6.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img7.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img1.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img2.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img3.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img4.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
+          <img src="/child/img5.jpg" alt="" width="300" height="200" />
         </p>
-        <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/child/test.png" alt="" width="300" height="200" />
-        </p>
+
+
       </div>
     </section>
     <footer class="footer">
