@@ -9,15 +9,57 @@
       <h2>作品一覧</h2>
       <div class="oder__content-box">
         <p>
-          <img src="/oder/img1.jpeg" alt="" width="300" height="200" />
+          <img src="/oder/img1.jpg" alt="" width="300" height="200" />
         </p>
         <p>
           <img src="/oder/img2.jpg" alt="" width="300" height="200" />
+        </p>
+
+        <p>
+          <img src="/oder/img4.jpeg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img5.jpg" alt="" width="300" height="200" />
+        </p>
+
+        <p>
+          <img src="/oder/img10.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img11.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img12.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img13.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img7.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img14.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img6.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img15.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img16.jpg" alt="" width="300" height="200" />
         </p>
         <p>
           <img src="/oder/img3.jpg" alt="" width="300" height="200" />
         </p>
 
+        <p>
+          <img src="/oder/img8.jpg" alt="" width="300" height="200" />
+        </p>
+
+        <p>
+          <img src="/oder/img9.jpg" alt="" width="300" height="200" />
+        </p>
       </div>
     </section>
     <footer class="footer">
@@ -58,7 +100,7 @@
         font-size: 36px;
       }
       &::before {
-        content: "oders";
+        content: 'oders';
         position: absolute;
         top: 30%;
         left: 50%;
@@ -85,112 +127,105 @@
     }
   }
   .footer {
-  height: 250px;
-  background: rgba(235, 136, 228, 0.6);
-  .flex {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    li {
-      a {
-        i {
-          color: #7c7c7c;
-          transition: 0.5s;
-        }
-        .fa-twitter:hover {
-          color: #1da1f2;
-        }
-        .fa-instagram:hover {
-          color: #d93177;
-        }
-        .fa-facebook:hover {
-          color: #3b5998;
+    height: 250px;
+    background: rgba(235, 136, 228, 0.6);
+    .flex {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      li {
+        a {
+          i {
+            color: #7c7c7c;
+            transition: 0.5s;
+          }
+          .fa-twitter:hover {
+            color: #1da1f2;
+          }
+          .fa-instagram:hover {
+            color: #d93177;
+          }
+          .fa-facebook:hover {
+            color: #3b5998;
+          }
         }
       }
     }
-  }
 
-  .sns {
-    width: 200px;
-    padding-top: 30px;
-    margin: auto;
-    color: #7c7c7c;
+    .sns {
+      width: 200px;
+      padding-top: 30px;
+      margin: auto;
+      color: #7c7c7c;
+    }
+    .footer-text {
+      margin: 30px 0;
+      text-align: center;
+      font-size: 20px;
+      color: #fff;
+      line-height: 1.6;
+    }
+    .footer-sub-text {
+      text-align: center;
+      font-size: 25px;
+      color: #fff;
+    }
   }
-  .footer-text {
-    margin: 30px 0;
-    text-align: center;
-    font-size: 20px;
-    color: #fff;
-    line-height: 1.6;
-
-  }
-  .footer-sub-text {
-    text-align: center;
-    font-size: 25px;
-    color: #fff;
-
-  }
-}
-
 }
 </style>
 <script>
 export default {
   head() {
     return {
-      title:
-        "ささら優 / オーダーメイド作品一覧",
-      titleTemplate: "",
+      title: 'ささら優 / オーダーメイド作品一覧',
+      titleTemplate: '',
       meta: [
-        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         {
-          hid: "description",
-          name: "description",
+          hid: 'description',
+          name: 'description',
           content:
-            "ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。"
+            'ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。'
         },
         {
-          hid: "keywords",
-          name: "keywords",
+          hid: 'keywords',
+          name: 'keywords',
+          content: 'ささらゆう, ささら優, パステル画, パステル, イラストレーター, イラスト, 絵'
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content: '/images/mv.png'
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: '/images/fv.jpg'
+        },
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: 'ささら優 ポートフォリオサイト'
+        },
+        {
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: 'ささら優 ポートフォリオサイト'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
           content:
-            "ささらゆう, ささら優, パステル画, パステル, イラストレーター, イラスト, 絵"
+            'ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。'
         },
         {
-          hid: "og:image",
-          name: "og:image",
-          content: "/images/mv.png"
-        },
-        {
-          hid: "twitter:image",
-          name: "twitter:image",
-          content: "/images/fv.jpg"
-        },
-        {
-          hid: "og:title",
-          name: "og:title",
+          hid: 'twitter:description',
+          name: 'twitter:description',
           content:
-            "ささら優 ポートフォリオサイト"
-        },
-        {
-          hid: "twitter:title",
-          name: "twitter:title",
-          content:
-            "ささら優 ポートフォリオサイト"
-        },
-        {
-          hid: "og:description",
-          name: "og:description",
-          content:
-            "ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。"
-        },
-        {
-          hid: "twitter:description",
-          name: "twitter:description",
-          content:
-            "ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。"
+            'ささら優(ゆう)のポートフォリオサイトです。パステル教室を開催しつつイラスト販売などアーティスト活動をしています。'
         }
       ]
-    };
-  },
+    }
+  }
 }
 </script>

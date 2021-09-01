@@ -9,34 +9,22 @@
       <h2>作品一覧</h2>
       <div class="calendar__content-box">
         <p>
-          <img src="/calendar/img8.jpeg" alt="" width="300" height="200" />
+          <img src="/calendar/img1.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/calendar/img9.jpeg" alt="" width="300" height="200" />
+          <img src="/calendar/img2.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/calendar/img10.jpeg" alt="" width="300" height="200" />
+          <img src="/calendar/img3.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/calendar/img11.jpeg" alt="" width="300" height="200" />
+          <img src="/calendar/img4.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/calendar/img12.jpeg" alt="" width="300" height="200" />
+          <img src="/calendar/img5.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/calendar/img13.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/calendar/img14.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/calendar/img15.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/calendar/img16.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/calendar/img17.jpeg" alt="" width="300" height="200" />
+          <img src="/calendar/img6.jpg" alt="" width="300" height="200" />
         </p>
       </div>
     </section>
