@@ -190,13 +190,21 @@
           <tr>
             <th>2021年4月</th>
             <td>
-              ウーマンクリエイターズカレッジにて絵本展開催決定絵本「三日ぼうずのみっかさん」出展予定<br>
+              ウーマンクリエイターズカレッジにて絵本展開催決定絵本「三日ぼうずのみっかさん」出展<br>
               (<a
                 href="https://woman-college.com/blog/exhibition_20210423/">https://woman-college.com/blog/exhibition_20210423/</a>)
             </td>
           </tr>
+           <tr>
+            <th>2021年4月</th>
+            <td>
+              「第13回ねこまつりat湯島」限定ねこグッズを多数販売します！是非遊びに来てください<br>
+              (<a
+                href="https://nekomatsuri.com/">https://nekomatsuri.com/</a>)
+            </td>
+          </tr>
         </table>
-        
+
       </section>
 
       <section class="contact">
