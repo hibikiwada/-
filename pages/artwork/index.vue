@@ -7,65 +7,58 @@
     </section>
     <section class="artwork__content">
       <h2>作品一覧</h2>
-      <div class="artwork__content-box">
+      <div class="oder__content-box">
         <p>
-          <img src="/artwork/img3.jpeg" alt="" width="300" height="200" />
+          <img src="/oder/img1.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/artwork/img4.jpeg" alt="" width="300" height="200" />
-        </p>
-
-        <p>
-          <img src="/artwork/img6.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img7.jpeg" alt="" width="300" height="200" />
+          <img src="/oder/img2.jpg" alt="" width="300" height="200" />
         </p>
 
         <p>
-          <img src="/artwork/img9.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img4.jpeg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/artwork/img10.jpg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img11.jpg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img12.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img5.jpg" alt="" width="300" height="200" />
         </p>
 
         <p>
-          <img src="/artwork/img14.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img10.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/artwork/img15.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img11.jpg" alt="" width="300" height="200" />
         </p>
         <p>
-          <img src="/artwork/img16.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img12.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img13.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img7.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img14.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img6.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img15.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img16.jpg" alt="" width="300" height="200" />
+        </p>
+        <p>
+          <img src="/oder/img3.jpg" alt="" width="300" height="200" />
         </p>
 
         <p>
-          <img src="/artwork/img18.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img8.jpg" alt="" width="300" height="200" />
         </p>
 
         <p>
-          <img src="/artwork/img1.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img2.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img5.jpeg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img8.jpg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img13.jpg" alt="" width="300" height="200" />
-        </p>
-        <p>
-          <img src="/artwork/img17.jpg" alt="" width="300" height="200" />
+          <img src="/oder/img9.jpg" alt="" width="300" height="200" />
         </p>
       </div>
     </section>
