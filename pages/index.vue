@@ -53,7 +53,7 @@
             <div class="works-img">
               <img src="/images/img2.jpg" width="300" height="210" alt="" loading="lazy">
             </div>
-            <h3 class="works-text">オーダーメイド</h3>
+            <h3 class="works-text">イラスト集</h3>
             <p class="works-text2">まるで絵本の 1 ページのようなストーリー性のあるイラストが得意です 楽しく遊ぶ子供達や夢のある雰囲気満載のイラストをお描きします。</p>
             <a href="/oder/" class="art-btn">作品一覧はこちら</a>
           </div>
@@ -188,11 +188,19 @@
             </td>
           </tr>
           <tr>
-            <th>2021年4月</th>
+            <th>2021年9月</th>
             <td>
               ウーマンクリエイターズカレッジにて絵本展開催決定絵本「三日ぼうずのみっかさん」出展<br>
               (<a
                 href="https://woman-college.com/blog/exhibition_20210423/">https://woman-college.com/blog/exhibition_20210423/</a>)
+            </td>
+          </tr>
+          <tr>
+            <th>2021年5月</th>
+            <td>
+              LINEスタンプ販売中。是非使ってみてください！<br>
+              (<a
+                href="https://store.line.me/stickershop/product/8428074/ja">https://store.line.me/stickershop/product/8428074/ja</a>)
             </td>
           </tr>
            <tr>
