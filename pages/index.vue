@@ -2,8 +2,8 @@
   <div class="body-wrapper">
     <main>
       <section class="fv">
-        <img src="/images/fv.jpg" alt="" class="fv-pc">
-        <img src="/images/sp-fv.png" alt="" class="fv-sp">
+        <!-- <img src="/images/fv.jpg" alt="" class="fv-pc"> -->
+        <!-- <img src="/images/sp-fv.png" alt="" class="fv-sp"> -->
         <p>ささら 優<span>(ゆう)</span><br>
           <span class="sp2">〜 Woman creators Bank 所属イラストレーター 〜</span>
         </p>

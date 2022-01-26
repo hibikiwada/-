@@ -7,8 +7,8 @@
     </section>
     <section class="oder__content">
       <h2>作品一覧</h2>
-     
-      <div class="artwork__content-box">
+
+      <div class="oder__content-box">
         <p>
           <img src="/artwork/img3.jpeg" alt="" width="300" height="200" />
         </p>
