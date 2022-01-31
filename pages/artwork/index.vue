@@ -9,6 +9,9 @@
       <h2>作品一覧</h2>
       <div class="artwork__content-box">
         <p>
+          <img src="/images/img3.jpg" width="300" height="210" alt="" loading="lazy">
+        </p>
+        <p>
           <img src="/oder/img1.jpg" alt="" width="300" height="200" />
         </p>
         <p>

@@ -9,6 +9,9 @@
       <h2>作品一覧</h2>
       <div class="calendar__content-box">
         <p>
+           <img src="/images/img6.jpeg" width="300" height="210" alt="" loading="lazy">
+        </p>
+        <p>
           <img src="/calendar/img7.jpg" alt="" width="300" height="200" />
         </p>
         <p>

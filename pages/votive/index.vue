@@ -9,6 +9,9 @@
       <h2>作品一覧</h2>
       <div class="votive__content-box">
         <p>
+          <img src="/images/img4.jpg" width="300" height="210" alt="" loading="lazy">
+        </p>
+        <p>
           <img src="/votive/img1.jpeg" alt="" width="300" height="200" />
         </p>
         <p>

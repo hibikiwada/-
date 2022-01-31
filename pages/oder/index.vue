@@ -10,6 +10,9 @@
 
       <div class="oder__content-box">
         <p>
+          <img src="/images/img2.jpg" width="300" height="210" alt="" loading="lazy">
+        </p>
+        <p>
           <img src="/artwork/img3.jpeg" alt="" width="300" height="200" />
         </p>
         <p>

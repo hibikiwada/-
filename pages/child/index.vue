@@ -9,6 +9,9 @@
       <h2>作品一覧</h2>
       <div class="child__content-box">
         <p>
+          <img src="/images/img5.png" width="300" height="210" alt="" loading="lazy">
+        </p>
+        <p>
           <img src="/child/img6.jpg" alt="" width="300" height="200" />
         </p>
         <p>
